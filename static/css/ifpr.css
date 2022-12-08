@@ -3,26 +3,26 @@
 Cores do IFPR 
 */
 .bg-ifpr {
-    background-color: #a0040b;
+    background-color: #B33131;
 }
 
 .text-ifpr {
-    color: #a0040b;
+    color: #B33131;
 }
 
 .border-ifpr {
-    border-color: #a0040b;
+    border-color: #B33131;
 }
 .bg-ifpr-escuro {
-    background-color: #a0040b;
+    background-color: #B33131;
 }
 
 .text-ifpr-escuro {
-    color: #a0040b;
+    color: #B33131;
 }
 
 .border-ifpr-escuro {
-    border-color: #a0040b;
+    border-color: #B33131;
 }
 
 
@@ -79,7 +79,7 @@ Personalização da Barra de menu pra ficar igual do site
 }
 
 .navbar .nav-item:hover{
-    background-color: #a0040b;
+    background-color: #B33131;
 }
 
 
